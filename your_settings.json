@@ -1,0 +1,22 @@
+{
+    "token": "NjQ1MDE3OTc1NjYwODcxNjkx.XmLW8w.NCv_X9rLwdqWQZdtOqh0U6ZTqlU",
+    "prefix": "!",
+    "rainbowdelay": 200,
+    "rainbowcommand": "rainbow",
+    "rainbowstop": "stop",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000"
+    ],
+    "messageresponse": {
+        "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
+        "success": "Zaczynamy RAINBOW!!",
+        "rainbowstop": "RainbowBot Został Wstrzymany",
+        "rolenotfound": "Nie Ma Takiej Roli.."
+    }
+}
