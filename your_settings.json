@@ -1,5 +1,5 @@
 {
-    "token": "3udVdIxK4tggN5YGRIQDScsrBCmsROVW",
+    "token": "NjQ1MDE3OTc1NjYwODcxNjkx.XmOsaw.Iy6peLn-XroolEBCtBuSZhN-fZ8",
     "prefix": "!",
     "rainbowdelay": 200,
     "rainbowcommand": "rainbow",
@@ -14,9 +14,9 @@
         "#FF0000"
     ],
     "messageresponse": {
-        "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
-        "success": "Zaczynamy RAINBOW!!",
-        "rainbowstop": "RainbowBot Został Wstrzymany",
-        "rolenotfound": "Nie Ma Takiej Roli.."
+        "missingperm": "`Komenda Poprawna. Polecenie Niewykonane. Brak Permisji.`",
+        "success": "`Komenda Poprawna. Polecenie Wykonane.`",
+        "rainbowstop": "`Komenda Poprawna. Bot Zatrzymany.`",
+        "rolenotfound": "`Komenda Niepoprawna. Polecenie Niewykonane.`"
     }
 }
