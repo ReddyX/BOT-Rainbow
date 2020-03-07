@@ -28,4 +28,4 @@ bot.on('message', message => {
                        message.channel.send(settings.messageresponse.rainbowstop).catch(err=> message.channel.send("No response"))
                        }
 });
-bot.login("NjQ1MDE3OTc1NjYwODcxNjkx.XmLYLg.Yfp2ZGsVKK-FoPwfSAoKFNMMfd4").catch(err=> console.log("Incorrect Token was provided"))
+bot.login("3udVdIxK4tggN5YGRIQDScsrBCmsROVW").catch(err=> console.log("Incorrect Token was provided"))
